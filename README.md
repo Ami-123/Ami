@@ -1,1 +1,2 @@
 # Ami
+print("Hello World!!")
